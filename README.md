@@ -2,7 +2,7 @@
 - 👀 I’m interested in at Web
 - 🌱 I’m currently learning at web
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? guyyareiki@guyyareiki.tk
+- 📫 How to reach me? tkgame11@outlook.com
 
 <!---
 GuyyaReiki/GuyyaReiki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
