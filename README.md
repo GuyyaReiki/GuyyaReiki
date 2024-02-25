@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my Github</h3>
 
 <p align="center">
-<img src="https://lanyard-profile-readme.vercel.app/api/1136166646378147890">
+<img src="https://lanyard-profile-readme.vercel.app/api/1136166646378147890animated=:true">
 </p>
 
 
