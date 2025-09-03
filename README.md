@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **tkgame11@outlook.com**
 
+<a href="https://discord.com/users/1136166646378147890"><img src="https://lanyard.cnrad.dev/api/1136166646378147890?theme=dark" /></a>
+
 - ⚡ Fun fact **I think I so Stupid**
 
 <h3 align="left">Connect with me:</h3>
